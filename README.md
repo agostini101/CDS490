@@ -14,3 +14,9 @@ Topics of loans, credit, and debt are of great importance. These subjects I beli
 I decided to investigate further into this with data for a history of loan tendencies with default and amounts of total or carried balances. I also felt it would be important to work on possible alternatives with credit scoring from generation trends. A credit score is a good figure to base off a financial decision for the bank however for those just getting started or individuals with more challenged circumstances are heavily penalized. I wanted to work with category weights such as income to see how to modify this.
 
 ## Method and Result
+Classification and regression techniques are to be used to achieve borrower groups and credit amounts.
+Best classification methods for the data are decision trees, K nearest neighbor, and Support Vector. I will look also at Neural net applications. 
+Regression analysis applied for a binary outcome with logistic. Otherwise for amounts a multivariate regression is investigated. 
+Currently, error is higher than desired especially with resursive partitioning to get total estimates. The balance between adding enough variable to better explain model, yet not to overfit with characteristics is crutial and challenging.
+
+
