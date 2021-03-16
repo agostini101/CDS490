@@ -7,7 +7,7 @@ Through this project there will be multiple goals such as to predict payment def
 Also, investigate the inverse to make a calculation for approval prediction with a loan amount if approved based off many factors. Credit score algorithm investigation and risk score prediction as alternative.
 
 
-##Background
+## Info
 
 Topics of loans, credit, and debt are of great importance. These subjects I believe have not had enough attention as needed over the past several years. I have noticed trends with those around me typically taking two polarizing stances when it comes to debt and credit scores. This would be for an individual to have more of an emphasis on credit scoring and achieve a value which is in a good standing. While on the other hand, I have personally seen for my generation with the millennials, there are many people totally against having a score. The split on those who wish to take on debt then is quite evenly split. I was seen some change their minds on debt with time to acquire some or vice versa being they received student loans early on and that caused them to stop adding to this debt. There is a whole spectrum for pro and anti-loans. 
 
