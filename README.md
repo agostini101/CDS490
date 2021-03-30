@@ -65,10 +65,10 @@ The top 5 variables with highest importance to the model are by far the consumer
 Based off of Status Binary for customer grouping of current or past due.
 
 ##
-## svm
+## Svm
 
 ##
-## multivariate
+## Multivariate
 Credit limit created as Income percentage, overall approval on overall of all factors.
 
 
