@@ -21,7 +21,7 @@ Best classification methods for the data are decision trees, K nearest neighbor,
 Regression analysis applied for a binary outcome with logistic. Otherwise for amounts a multivariate regression is investigated. 
 
 In regard to Classification, error will range depending on variable complexity. With binary variables the algorithm is more easily able to categorise while I have additionally been working with an option of seven groups.
-Currently, error is higher than desired especially with resursive partitioning to get total estimates. The balance between adding enough variable to better explain model, yet not to overfit with characteristics is crutial.
+Currently, error is higher than desired especially with resursive partitioning to get total estimates. The balance between adding enough variable to better explain model, yet not to overfit with characteristics.
 
 # Results
 ## Losistic
