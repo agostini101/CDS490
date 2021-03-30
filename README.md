@@ -40,6 +40,8 @@ Based off of Status Binary for customer grouping of current or past due.
 Based off of Status Binary for customer grouping of current or past due.
 Initially the recursive partitioning achieves a 62% accuracy on average with the true posiitves and negatives.
 
+Classification with the use of reponse on the explanatory variables that carry the most weight did cause an improvement to 70 percentage points. 
+
 ## Decision Trees
 Error of status binary with several numeric variables in turn caused error to 28% (record_model)
 When trials are increased the error was a result of a range from 21 to 39 % in error depending on level. (record_boost)
