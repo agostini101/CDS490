@@ -4,7 +4,7 @@
 
 Through this project there will be multiple goals such as to predict payment default and balance amounts based off data for credit cards or mortgages. This is based off financial attributes and possibly additional characteristics. 
 
-Also, investigate the inverse to make a calculation for approval prediction with a loan amount if approved based off many factors. Credit score algorithm investigation and risk score prediction as alternative.
+Also, investigate the inverse to make a calculation for approval prediction with a loan amount if approved based off many factors. Credit score similarities and risk weight manipulation in prediction.
 
 
 ## Info
@@ -21,8 +21,23 @@ Best classification methods for the data are decision trees, K nearest neighbor,
 Regression analysis applied for a binary outcome with logistic. Otherwise for amounts a multivariate regression is investigated. 
 
 In regard to Classification, error will range depending on variable complexity. With binary variables the algorithm is more easily able to categorise while I have additionally been working with an option of seven groups.
-Currently, error is higher than desired especially with resursive partitioning to get total estimates. The balance between adding enough variable to better explain model, yet not to overfit with characteristics is crutial and challenging.
+Currently, error is higher than desired especially with resursive partitioning to get total estimates. The balance between adding enough variable to better explain model, yet not to overfit with characteristics is crutial.
 
 ## Result
+## losistic
+
+
+## Multinomial/Ordinal 
+
+
+## knn
+
+
+## Partitioning with boost
+
+
+## Random Forest
+
+
 
 
