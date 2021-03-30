@@ -23,17 +23,17 @@ Regression analysis applied for a binary outcome with logistic. Otherwise for am
 In regard to Classification, error will range depending on variable complexity. With binary variables the algorithm is more easily able to categorise while I have additionally been working with an option of seven groups.
 Currently, error is higher than desired especially with resursive partitioning to get total estimates. The balance between adding enough variable to better explain model, yet not to overfit with characteristics is crutial.
 
-## Result
-## losistic
+# Results
+## Losistic
 
 
 ## Multinomial/Ordinal 
 
 
-## knn
+## Knn
 
 
-## Partitioning with boost
+## Partitioning with boosting
 
 
 ## Random Forest
