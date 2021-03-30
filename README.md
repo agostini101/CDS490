@@ -25,18 +25,43 @@ Currently, error is higher than desired especially with resursive partitioning t
 
 # Results
 ## Losistic
-
+Based off of Status Binary for customer grouping of current or past due.
+This can be compared to different customaer groups in test sets to get varying probabibilities of defualt y customer characteristics.
 
 ## Multinomial/Ordinal 
-
+With the status variable with multiple levels
+This was able close to double the accuracy with the Forest model, however the outcome then reached approximately 46%.
 
 ## Knn
+Based off of Status Binary for customer grouping of current or past due.
 
 
 ## Partitioning with boosting
+Based off of Status Binary for customer grouping of current or past due.
+Initially the recursive partitioning achieves a 62% accuracy on average with the true posiitves and negatives.
+
+## Decision Trees
+Error of status binary with several numeric variables in turn caused error to 28% (record_model)
+When trials are increased the error was a result of a range from 21 to 39 % in error depending on level. (record_boost)
+
+This level of error can be helped with more iterations through trail however the scew in the observations for the lower count in levels 2,3, and 4 past due time intervals. 
 
 
 ## Random Forest
+Based off of Status Binary for customer grouping of current or past due.
+
+Also applied with ordinal variable of STATUS for comparison. 
+
+The use of Status for seven factors did hinder the model so after the multinomial was applied as an alternative. When Binary was applied the accuracy went from a level of 25% to 81%.
+
+The top 5 variables with highest importance to the model are by far the consumer Age, Time with balance, Employment time, Income, and Occupation. 
+
+
+
+# Final
+
+
+
 
 
 
