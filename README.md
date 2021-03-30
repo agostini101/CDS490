@@ -13,7 +13,7 @@ Topics of loans, credit, and debt are of great importance. These subjects I beli
 
 While on the other hand, I have personally seen for my generation with the millennials, there are many people totally against having a score. The split on those who wish to take on debt then is quite evenly split. I was seen some change their minds on debt with time to acquire some or vice versa being they received student loans early on and that caused them to stop adding to this debt. There is a whole spectrum for pro and anti-loans. 
 
-I decided to investigate further into this with data for a history of loan tendencies with default and amounts of total or carried balances. I also felt it would be important to work on possible alternatives with credit scoring from generation trends. A credit score is a good figure to base off a financial decision for the bank however for those just getting started or individuals with more challenged circumstances are heavily penalized. I wanted to work with category weights such as income to see how to modify this.
+I decided to investigate further into this with data for a history of loan tendencies with default and amounts of total or carried balances. I also felt it would be important to work on possible alternatives with credit scoring from generation trends. A credit score is a good figure to base off a financial decision for the bank however for those just getting started or individuals with more challenged circumstances are heavily penalized. I wanted to work with category weights such as income and other personal characteristics to modify credit result estimate per unique customer.
 
 ## Method
 Classification and regression techniques are to be used to achieve borrower groups and credit amounts.
