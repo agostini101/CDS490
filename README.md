@@ -32,8 +32,6 @@ This can be compared to different customaer groups in test sets to get varying p
 With the status variable with multiple levels
 This was able close to double the accuracy with the Forest model, however the outcome then reached approximately 46%.
 
-## Knn
-Based off of Status Binary for customer grouping of current or past due.
 
 
 ## Partitioning with boosting
@@ -60,9 +58,18 @@ The top 5 variables with highest importance to the model are by far the consumer
 
 
 
-# Final
 
+# Final (To add later for wrap up/conc)
 
+## Knn
+Based off of Status Binary for customer grouping of current or past due.
+
+##
+## svm
+
+##
+## multivariate
+Credit limit created as Income percentage, overall approval on overall of all factors.
 
 
 
