@@ -1,4 +1,39 @@
 
-Topics of loans, credit, and debt are of great importance. These subjects I believe have not had enough attention as needed over the past several years. I have noticed trends with those around me typically taking two polarizing stances when it comes to debt and credit scores. This would be for an individual to have more of an emphasis on credit scoring and achieve a value which is in a good standing. While on the other hand, I have personally seen for my generation with the millennials, there are many people totally against having a score. The split on those who wish to take on debt then is quite evenly split. I was seen some change their minds on debt with time to acquire some or vice versa being they received student loans early on and that caused them to stop adding to this debt. There is a whole spectrum for pro and anti-loans. 
+## Variable explainations
+## Application
+ID: Assigned customer number
+CODE_GENDER: Gender of either male or female
+FLAG_OWN_CAR: Yes or No for customer car ownership
+FLAG_OWN_REALTY: Yes or No for customer home ownership
+CNT_CHILDREN: # of Children
+AMT_INCOME_TOTAL: 
+NAME_INCOME_TYPE: 
+NAME_EDUCATION TYPE: 
+NAME_FAMILY_STATUS: 
+NAME_HOUSING_TYPE: 
+DAYS_BIRTH: age as a daily value counted backwards so negative
+DAYS_EMPLOYED: Time employed counted backward as a negative (if positive then umenployed)
+FLAG_MOBIL: 
+FLAG_WORK_PHONE:
+FLAG_PHONE:
+FLAG_EMAIL:
+OCCUPATION_TYPE:
+CNT_FAM_MEMBERS: 
 
-I decided to investigate further into this with data for a history of loan tendencies with default and amounts of total or carried balances. I also felt it would be important to work on possible alternatives with credit scoring from generation trends. A credit score is a good figure to base off a financial decision for the bank however for those just getting started or individuals with more challenged circumstances are heavily penalized. I wanted to work with category weights such as income to see how to modify this.
+
+## Credit
+ID: Assigned customer number
+MONTHS_BALANCE: historical record month
+STATUS: current credit standing. 
+- X: no balance currently
+- C: Paid month
+- 0: 1-29 days late
+- 1: 30-59 days late
+- 2: 60-89 days late
+- 3: 90-119 days overdue
+- 4: 120-149 days overdue
+- 5: bad debts
+-
+
+
+
