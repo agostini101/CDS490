@@ -61,12 +61,6 @@ The top 5 variables with highest importance to the model are by far the consumer
 
 # Final (To add later for wrap up/conc)
 
-## Knn
-Based off of Status Binary for customer grouping of current or past due.
-
-##
-## Svm
-
 ##
 ## Multivariate
 Credit limit created as Income percentage, overall approval on overall of all factors.
