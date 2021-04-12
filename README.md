@@ -57,11 +57,6 @@ The use of Status for seven factors did hinder the model so after the multinomia
 The top 5 variables with highest importance to the model are by far the consumer Age, Time with balance, Employment time, Income, and Occupation. 
 
 
-
-
-# Final (To add later for wrap up/conc)
-
-##
 ## Multivariate
 Credit limit created as Income percentage, overall approval on overall of all factors.
 
