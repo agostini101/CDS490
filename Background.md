@@ -9,33 +9,33 @@ FLAG_OWN_CAR: Yes or No for customer car ownership
 
 FLAG_OWN_REALTY: Yes or No for customer home ownership
 
-CNT_CHILDREN: # of Children
+CNT_CHILDREN: Number of Children
 
-AMT_INCOME_TOTAL: 
+AMT_INCOME_TOTAL: Household income
 
-NAME_INCOME_TYPE: 
+NAME_INCOME_TYPE: Work, student, self employed
 
-NAME_EDUCATION TYPE: 
+NAME_EDUCATION TYPE: Education level completed
 
-NAME_FAMILY_STATUS: 
+NAME_FAMILY_STATUS: Married or single
 
-NAME_HOUSING_TYPE: 
+NAME_HOUSING_TYPE: Home, apartment, rental, etc
 
 DAYS_BIRTH: age as a daily value counted backwards so negative
 
 DAYS_EMPLOYED: Time employed counted backward as a negative (if positive then umenployed)
 
-FLAG_MOBIL: 
+FLAG_MOBIL: Has mobile on file
 
-FLAG_WORK_PHONE:
+FLAG_WORK_PHONE: Has work on file
 
-FLAG_PHONE:
+FLAG_PHONE: Has personal on file
 
-FLAG_EMAIL:
+FLAG_EMAIL: has email for the record
 
-OCCUPATION_TYPE:
+OCCUPATION_TYPE: Line of employment
 
-CNT_FAM_MEMBERS: 
+CNT_FAM_MEMBERS: Household number
 
 
 ## Credit
